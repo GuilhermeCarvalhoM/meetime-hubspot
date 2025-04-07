@@ -30,7 +30,7 @@ Este projeto é uma aplicação Java com Spring Boot que realiza integração co
 1. **Clone o projeto:**
 
 ```bash
-git clone https://github.com/seu-usuario/hubconnect-meetime.git
+git clone https://github.com/GuilhermeCarvalhoM/meetime-hubspot.git
 cd hubconnect-meetime
 ```
 
